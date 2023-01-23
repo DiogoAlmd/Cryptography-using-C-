@@ -1,0 +1,14 @@
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\bin\Debug\netcoreapp3.1\testeCriptoConsole.exe
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\bin\Debug\netcoreapp3.1\testeCriptoConsole.deps.json
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\bin\Debug\netcoreapp3.1\testeCriptoConsole.runtimeconfig.json
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\bin\Debug\netcoreapp3.1\testeCriptoConsole.runtimeconfig.dev.json
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\bin\Debug\netcoreapp3.1\testeCriptoConsole.dll
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\bin\Debug\netcoreapp3.1\testeCriptoConsole.pdb
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.csproj.AssemblyReference.cache
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.AssemblyInfoInputs.cache
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.AssemblyInfo.cs
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.csproj.CoreCompileInputs.cache
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.dll
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.pdb
+C:\Users\suporte\Documents\projetos-visual-studio\testeCript\testeCriptoConsole\obj\Debug\netcoreapp3.1\testeCriptoConsole.genruntimeconfig.cache
